@@ -13,5 +13,3 @@ Runs at 2-5k views/second with free proxies, can go insanely fast with UHQ proxi
 * Telegram: @djukicdev
 * https://t.me/djukicdotdev
 * djukicdev@protonmail.com
-
-
